@@ -1,6 +1,6 @@
 # EXP 5 – Comparative Analysis of Different Types of Prompting Patterns
 
-**Date:** __________  
+**Date:**  
 
 **Register Number:** 212222240043
 
